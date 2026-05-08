@@ -4,13 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO/issues"
+  },
+  "homepage": "https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO#readme"
 }
