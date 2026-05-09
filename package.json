@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+
   },
   "keywords": [],
   "author": "",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO/issues"
   },
-  "homepage": "https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO#readme"
+  "homepage": "https://github.com/danielcallacastillo7u7-cell/CLUB_CATARINDO#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
