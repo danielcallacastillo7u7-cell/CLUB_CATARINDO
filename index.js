@@ -14,7 +14,7 @@ app.get("/products", (req, res) => {
     res.json([
         {
             id: 10 , // Si en el front usas number, aquí debe ser número
-            name: "laptop prueba",
+            name: "DANIEL",
         },
     ]);
 });
